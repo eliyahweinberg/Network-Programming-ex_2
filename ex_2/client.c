@@ -36,6 +36,7 @@
 #define DEFAULT -1
 #define TRUE 'y'
 
+
 /*Represents http request data*/
 struct request_args {
     char header_h;
@@ -490,5 +491,5 @@ int strconcat(char** dest,const char* source, int lenght){
 }
 
 
-
+int foo();
 
