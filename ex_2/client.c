@@ -491,5 +491,4 @@ int strconcat(char** dest,const char* source, int lenght){
 }
 
 
-int foo();
 
